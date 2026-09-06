@@ -1,7 +1,7 @@
 [Variables]
 alertcount = 20
-filament_used = 109025.48059001504
-filterusetime = 39677
-lastservicetime = 39677
-totalprintingtime = 39677
+filament_used = 137682.39219001547
+filterusetime = 47342
+lastservicetime = 47342
+totalprintingtime = 47342
 
